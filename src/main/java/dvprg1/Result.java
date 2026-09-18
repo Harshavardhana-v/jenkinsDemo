@@ -1,5 +1,5 @@
 package dvprg1;
-
+//code to check for student academic status
 public class Result {
 	public static String display(int m) {
 		if(m<0 || m>100)
