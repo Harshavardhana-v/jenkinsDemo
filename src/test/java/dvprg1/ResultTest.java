@@ -1,5 +1,4 @@
 package dvprg1;
-// actual code which test the students marks
 import org.testng.Assert;
 import org.testng.annotations.Test;
 public class ResultTest {
