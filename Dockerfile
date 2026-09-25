@@ -1,3 +1,4 @@
+// simple docker file using eclipse with jdk for students result 
 FROM eclipse-temurin:17-jdk
 WORKDIR /app
 COPY target/*.jar app.jar
